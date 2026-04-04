@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/Anandraj239">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+(AI+%26+ML);Python+and+C%2B%2B+Developer;AI+%2F+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
-  </a>
+  </a>.
 </p>
 
 <p align="center">
