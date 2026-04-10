@@ -59,18 +59,5 @@
 
 <hr>
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=anandraj239&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anandraj239&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=anandraj239&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="48%" />
-  <img src="https://github-profile-trophy-one.vercel.app/?username=anandraj239&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" width="48%" />
-</p>
-
-<hr>
 
 
