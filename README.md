@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=800&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there!+👋+I'm+Anand+Raj;Welcome+to+my+Profile!" alt="Typing Name" />
-</h1>
+<p align="center">
+  <img src="anand_raj_banner.png" alt="Anand Raj Arcade Banner" width="100%">
+</p>
 
 <p align="center">
   <a href="https://github.com/Anandraj239">
