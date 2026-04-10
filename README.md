@@ -1,8 +1,6 @@
-<div align="center">
-  <a href="https://github.com/Anandraj239">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!%20%F0%9F%91%8B%20I'm%20Anand%20Raj&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Enthusiast%20%7C%20Python%20%26%20C%2B%2B%20Developer&descAlignY=55&descSize=20" alt="header banner" />
-  </a>
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=800&size=40&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi+there!+👋+I'm+Anand+Raj;Welcome+to+my+Profile!" alt="Typing Name" />
+</h1>
 
 <p align="center">
   <a href="https://github.com/Anandraj239">
