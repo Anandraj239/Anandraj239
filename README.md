@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <em>I’m currently focused on building a rock-solid foundation in Python, Data Structures, and AI/ML principles. <br>I’m a funny guy who loves making people laugh while building cool futuristic tech! 🚀</em>
+  <em>I’m currently focused on building a rock-solid foundation in Python, Data Structures, and AI/ML principles. <br> A funny guy who loves making people laugh while building cool futuristic tech! 🚀</em>
 </p>
 
 <p align="center">
