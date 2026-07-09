@@ -1,7 +1,7 @@
 <p align="center">
   <img src="anand_raj_banner.png" alt="Anand Raj Arcade Banner" width="100%">
 </p>
-
+ 
 <p align="center">
   <a href="https://github.com/Anandraj239">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+futuristic+Tech!+🚀;Passionate+Problem+Solver;B.Tech+CSE+(AI+%26+ML)" alt="Typing SVG" />
