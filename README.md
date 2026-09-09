@@ -21,11 +21,6 @@
 
 ## ⚡ What I'm Up To (Live Scenarios)
 
-<p align="center">
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anandraj239&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=16161e&area=true&hide_border=true" width="100%" alt="Activity Graph">
-</p>
-
 > [!TIP]
 > **Want to show what you're listening to right now?**
 > Remove the HTML comment arrows (`<!--` and `-->`) below and replace `YOUR_SPOTIFY_USER_ID` with your real open.spotify.com profile ID! It takes 1 minute to setup.
